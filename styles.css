@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+}
+
+.customers {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.customer {
+  text-align: center;
+  margin: 20px;
+
+}
+img {
+  width: 300px;
+}
+ .name {
+   margin: 10px 30px;
+   border-bottom: 1px solid green;
+ }
